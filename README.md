@@ -8,7 +8,7 @@ Passionate about building modern and intuitive web applications using **Next.js,
 
 ### **summitSeekers**
 
-🔗 [<a href="https://mountains-next-js-git-preview-kd-web-designs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>] | 📂 [Repo](https://github.com/KD-Web-Design/mountains-nextJS)  
+🔗 <a href="https://mountains-next-js-git-preview-kd-web-designs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 📂 [Repo](https://github.com/KD-Web-Design/mountains-nextJS)  
 Concept app about some of the most beautiful mountains in the world. Powered by Next.js, ShadCN UI.
 
 ### **Burger Xpress**
